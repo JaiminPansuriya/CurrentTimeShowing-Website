@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+    color:grey;
+}
+
+.container {
+    border: 1px solid #ccc; /* Optional: Just to show the container */
+    padding: 20px;
+}
